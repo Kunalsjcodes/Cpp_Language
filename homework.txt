@@ -1,0 +1,14 @@
+22-07-2020
+1) With Return and No Argument using class
+2) With Return and With Argument using class
+3) pass two numbers from main and check which is greater in class method and return greater one
+
+26-07-2020
+1) Passing Array of Object a function args.
+2) Passing Array of Object a function args and return greatest number from the array.
+3) Passing Array of Object a function args and return lowest number from the array.
+ 
+30-07-2020
+1) create two different classes named as class A and class B. Now try to access pvt and public members of class A in class B.
+2) Parameterized Constructor
+
